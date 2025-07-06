@@ -28,6 +28,8 @@
                 x:Name="GuardarInformacion"
                 Text="Guardar Informacion"
                 Clicked="GuardarInformacion_Clicked"/>
+            <Label
+                x:Name="LabelContactos"/>
 
 
         </VerticalStackLayout>
